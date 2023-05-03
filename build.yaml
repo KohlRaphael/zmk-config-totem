@@ -1,5 +1,7 @@
+board: [ "seeeduino_xiao_ble" ]
+shield: [ "totem_left", "totem_right" ]
 include:
-  - board: seeeduino_xiao_ble
+  - board: 
     shield: totem_left
   - board: seeeduino_xiao_ble
     shield: totem_right
